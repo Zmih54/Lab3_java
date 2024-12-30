@@ -83,7 +83,7 @@ Block{name='Glass', durability=30, hardness=0.3, transparent=true, material='San
 ```
 
 **Запуск програми:**
-   - Використайте термінал VS Code:
+   - Використайте термінал:
      ```bash
      javac BlockManager.java
      java BlockManager
